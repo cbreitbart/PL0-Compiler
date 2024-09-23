@@ -1,0 +1,10 @@
+Source program:
+var x, y;
+begin
+  while x 5;
+  begin
+     x := y * 2;
+  end
+end.
+
+Error: Expected relational operator

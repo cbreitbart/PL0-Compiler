@@ -1,0 +1,9 @@
+Source program:
+var x, y;
+begin
+  if odd x;
+     x := y * 2;
+  end
+end.
+
+Error: Expected 'then'

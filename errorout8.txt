@@ -1,0 +1,7 @@
+Source program:
+var x, y;
+begin
+  x := @ + 56
+end.
+
+Error: Error: Invalid Symbol

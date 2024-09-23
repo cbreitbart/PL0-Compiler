@@ -1,0 +1,7 @@
+Source program:
+var averylongidentifiername, y;
+begin
+  averylongidentifiername := y + 56
+end.
+
+*** stack smashing detected ***: terminated

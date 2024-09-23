@@ -1,0 +1,7 @@
+Source program:
+var x, y;
+begin
+  x := y + 56
+.
+
+Error: Expected 'end'

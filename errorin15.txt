@@ -1,0 +1,4 @@
+var averylongidentifiername, y;
+begin	
+  averylongidentifiername := y + 56
+end.

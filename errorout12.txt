@@ -1,0 +1,15 @@
+Source program:
+var x, y;
+procedure far;
+  var z;
+  begin
+    y := 2;
+    x := 56;
+    z := x + y;
+  end;
+begin
+  x;
+  call far;
+end.
+
+Error: Expected ':='

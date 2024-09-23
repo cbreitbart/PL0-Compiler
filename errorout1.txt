@@ -1,0 +1,10 @@
+Source program:
+var x, y;
+begin
+    x = y * 2;
+end.
+
+Assembly Code:
+
+Line     OP  L  M
+Error: Expected ':='
