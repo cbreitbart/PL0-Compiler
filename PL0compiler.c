@@ -1,4 +1,4 @@
-// FileName: hw4compiler.c
+// FileName: PL0compiler.c
 // Date Created: 4/13/23
 // Authors: Carson Breitbart, Marco Diaz
 // Description: The compiler reads a program written in PL/0 and generates code for the Virtual Machine (VM) implemented in HW1. 
